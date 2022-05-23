@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "propertyId": "1",
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "test@test.com",
+      "labelColor": "#dde216",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
+    },
+    {
+      "id": "2",
+      "propertyId": "1",
+      "firstName": "Michael",
+      "lastName": "Jordan",
+      "email": "michaeljordan@gmail.com",
+      "labelColor": "#392abf",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
+    },
+    {
+      "id": "3",
+      "propertyId": "1",
+      "firstName": "Emmanuel",
+      "lastName": "Kant",
+      "email": "emmanuelkant@gmail.com",
+      "labelColor": "#eda201",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg",
+      "schedules": [
+        {
+          "id": "employee-schedule-2",
+          "start": 1645423215560,
+          "end": 1650034815000,
+          "weekDays": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": false
+          },
+          "yearMonths": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "60ec1577455a06082dee0112",
+      "propertyId": "1",
+      "email": "info@mariana-ferreira.com",
+      "firstName": "Mariana",
+      "lastName": "Ferreira",
+      "labelColor": "#308446",
+      "phoneNumber": "015167164305",
+      "userAvatarId": "60ec18a4e36e4854f6dedf96",
+      "userAvatarmd5": "65e19e406ac5278da5ad91d8c87d1243",
+      "avatar": "uploaded",
+      "avatarUrl": "https://api.bbloom.de/uploads/60ec18a4e36e4854f6dedf9665e19e406ac5278da5ad91d8c87d1243.jpg"
+    },
+    {
+      "avatar": "default",
+      "firstName": "ATANASOAEI",
+      "lastName": "FLORIN",
+      "email": "florin.a@pwrr.expert",
+      "phone": "+10759634348",
+      "labelColor": "",
+      "id": "Mk3vgox"
+    }
+  ]
+}
